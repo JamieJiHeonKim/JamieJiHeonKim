@@ -30,13 +30,18 @@ My work blends **technical depth**, **product intuition**, and a belief that sof
 
 ## GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=tokyonight&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JamieJiHeonKim&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JamieJiHeonKim&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JamieJiHeonKim&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JamieJiHeonKim&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JamieJiHeonKim&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamieJiHeonKim&theme=tokyonight" />
+</p>
 
 ---
 
@@ -65,8 +70,8 @@ My work blends **technical depth**, **product intuition**, and a belief that sof
 
 ## Connect With Me
 
-**Portfolio:** [https://portfolio-showcase-production-bfa2.up.railway.app/](https://portfolio-showcase-production-bfa2.up.railway.app/)  
-**LinkedIn:** [https://www.linkedin.com/in/ji-heon-kim-a19970187/](https://www.linkedin.com/in/ji-heon-kim-a19970187/)  
+**Portfolio:** https://portfolio-showcase-production-bfa2.up.railway.app/  
+**LinkedIn:** https://www.linkedin.com/in/ji-heon-kim-a19970187/  
 **Email:** jamiejiheonkim@gmail.com  
 
 ---
