@@ -30,18 +30,17 @@ My work blends **technical depth**, **product intuition**, and a belief that sof
 
 ## GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JamieJiHeonKim&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JamieJiHeonKim&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamieJiHeonKim&theme=tokyonight" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true" />
+</picture>
 
 ---
 
