@@ -28,19 +28,9 @@ My work blends **technical depth**, **product intuition**, and a belief that sof
 
 ---
 
-## GitHub Activity & Stats
+## GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true" />
-</picture>
+<img src="https://res.cloudinary.com/JamieJiHeonKim/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 ---
 
