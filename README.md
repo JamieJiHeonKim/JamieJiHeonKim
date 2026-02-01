@@ -17,7 +17,7 @@ I’m currently exploring:
 
 **Languages:** TypeScript, JavaScript, Python, Java, C, SQL  
 **Frontend:** React, Next.js, React Native, Tailwind, Expo  
-**Backend:** Node.js, Express, FastAPI, Django, REST
+**Backend:** Node.js, Express, FastAPI, Django, REST  
 **Infra:** Docker, AWS, Vercel, Supabase, MongoDB, PostgreSQL  
 **AI:** LLM integration, RAG pipelines, vector search, prompt engineering  
 **Other:** System design, product architecture, rapid prototyping  
@@ -27,11 +27,27 @@ I’m currently exploring:
 ## GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieJiHeonKim&layout=compact&theme=tokyonight" height="165" /> </p> 
-  <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" /> </p> 
-  <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamieJiHeonKim&theme=tokyonight" /> 
-  </p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=tokyonight&rank_icon=github" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieJiHeonKim&layout=compact&theme=tokyonight" 
+    height="165" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=JamieJiHeonKim&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamieJiHeonKim&theme=tokyonight" 
+  />
+</p>
 
 ---
 
@@ -60,9 +76,9 @@ I’m currently exploring:
 
 ## Connect With Me
 
-- Portfolio: https://portfolio-showcase-production-bfa2.up.railway.app/
-- LinkedIn: https://www.linkedin.com/in/ji-heon-kim-a19970187/ 
-- Email: jamiejiheonkim@gmail.com
+- Portfolio: https://portfolio-showcase-production-bfa2.up.railway.app/  
+- LinkedIn: https://www.linkedin.com/in/ji-heon-kim-a19970187/  
+- Email: jamiejiheonkim@gmail.com  
 
 ---
 
