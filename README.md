@@ -26,18 +26,20 @@ I’m currently exploring:
 
 ## GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieJiHeonKim&layout=compact&theme=tokyonight" height="165" />
-</p>
+<!-- GitHub Readme Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamieJiHeonKim&show_icons=true&theme=tokyonight&rank_icon=github)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JamieJiHeonKim&theme=tokyonight" />
-</p>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieJiHeonKim&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamieJiHeonKim&theme=tokyonight" />
-</p>
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=JamieJiHeonKim&theme=tokyonight)
+
+<!-- GitHub Profile Summary Card -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamieJiHeonKim&theme=tokyonight)
+
+<!-- GitHub Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JamieJiHeonKim&theme=tokyonight)
 
 ---
 
@@ -72,4 +74,4 @@ I’m currently exploring:
 
 ---
 
-### ⭐ If you like my work, feel free to star a repo or reach out — always open to collaborating on meaningful projects.
+### If you like my work, feel free to star a repo or reach out — always open to collaborating on meaningful projects.
