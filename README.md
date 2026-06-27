@@ -1,4 +1,4 @@
-# Nice to meet you — I'm Ji Heon Kim
+# Nice to meet you, I'm Ji Heon Kim
 
 Full‑stack engineer, product architect, and builder focused on creating meaningful, high‑impact software.  
 I’ve spent the past **4+ years** designing and shipping scalable web and mobile applications, automation systems, and AI‑powered tools that genuinely help people work smarter.
